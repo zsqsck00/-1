@@ -10,7 +10,7 @@ http://39.136.48.52:8089/PLTV/88888888/224/3221225757/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视A",CCTV5
 http://111.12.101.22:6610/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视A",CCTV5+
-http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8#http://39.134.32.31/live.cache.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
+http://111.12.101.22:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视A",CCTV6
 http://111.12.101.22:6610/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视A",CCTV7
@@ -58,7 +58,7 @@ http://111.12.101.22:6610/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1&
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视A",山东卫视
 http://111.12.101.22:6610/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视A",河南卫视
-http://39.135.32.10:6610/000000001000/SD-4000k-576P-henanstv/1.m3u8?IASHttpSessionId=OTT?zweimd
+http://111.12.101.22:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视A",河北卫视
 http://111.12.101.22:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视A",安徽卫视
@@ -372,13 +372,13 @@ http://182.151.211.171:808/hls/17/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视备用",CCTV17-B
 http://39.136.48.2:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视备用",湖南卫视-A
-http://117.148.179.172/TVOD/88888888/224/3221231729/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视备用",湖南卫视-B
-http://117.148.179.135/TVOD/88888888/224/3221230206/index.m3u8
+http://111.12.101.22:6610/PLTV/77777777/224/3221225692/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视备用",湖南卫视-C
-http://117.148.179.163/PLTV/88888888/224/3221231729/index.m3u8
+http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视备用",湖南卫视-D
-http://117.148.179.135/TVOD/88888888/224/3221230206/index.m3u8
+http://39.135.138.58:18890/PLTV/88888910/224/3221225745/index.m3u8codeyj
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视备用",浙江卫视-A
 http://39.135.34.144:8080/000000001000/1000000001000009806/index.m3u8?test/PLTV/=02
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视备用",浙江卫视-B
@@ -425,9 +425,7 @@ https://p.ggiptv.com/v/4k.m3u8#http://ye23.win/iptv/4k.cctv.php
 http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K测试",纯享4K
 http://111.12.101.22:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-#EXTINF:-1 group-title="4K测试",4K影视-A
-http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="4K测试",4K影视-B
+#EXTINF:-1 group-title="4K测试",4K影视
 http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K测试",CCTV16 4K-A
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
@@ -545,24 +543,18 @@ http://111.12.101.22:6610/PLTV/77777777/224/3221225684/index.m3u8?$
 http://111.12.101.22:6610/PLTV/77777777/224/3221225690/index.m3u8?$
 #EXTINF:-1 group-title="NewTV系列",NewTV军事评论
 http://111.12.101.22:6610/PLTV/77777777/224/3221225749/index.m3u8?$
-#EXTINF:-1 group-title="咪咕视频",咪咕视频1
-http://111.12.101.22:6610/PLTV/77777777/224/3221225769/index.m3u8?
+#EXTINF:-1 group-title="咪咕视频",咪咕视频德甲
+http://39.134.66.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 group-title="咪咕视频",咪咕视频英超
 http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-#EXTINF:-1 group-title="咪咕视频",咪咕视频意甲
-https://mgsp-ali.live.miguvideo.com/migu/sports/olympic030/51/20210702/01.m3u8?msisdn=351672228210691eece59818330ca885&mdspid=&spid=800033&netType=0&sid=7510069907&pid=2028597139&timestamp=20220814004500&Channel_ID=0132_10010001005&ProgramID=741134564&ParentNodeID=-99&assertID=7510069907&client_ip=120.87.243.44&SecurityKey=20220814004500&mvid=7510034799&mcid=500020&mpid=120000258513&playurlVersion=WX-A1-5.7.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=0e42fca6818aebf30fe8c62a348cfe7e&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=a6e61b2c4353ca53ec35da064bfc8153
-#EXTINF:-1 group-title="咪咕视频",咪咕视频法甲
-https://mgws.live.miguvideo.com/migu/sports/20200724/pcstation1/51/01.m3u8?msisdn=ab083105561e576488ba9819cfb274a5&mdspid=&spid=800033&netType=0&sid=7510069963&pid=2028597139&timestamp=20220814004645&Channel_ID=0132_10010001005&ProgramID=741137125&ParentNodeID=-99&assertID=7510069963&client_ip=120.87.243.44&SecurityKey=20220814004645&mvid=7510034827&mcid=500020&mpid=120000249686&playurlVersion=WX-A1-5.7.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&mtv_session=c03d0a3e0f68dfffd43c2d617fab5ea2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=51735c0e1368be056def2116749f0391
-#EXTINF:-1 group-title="咪咕视频",咪咕视频英超【主】
-http://124.223.212.38:83/huya/27670981
 #EXTINF:-1 group-title="咪咕视频",咪咕视频英超
-http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
-#EXTINF:-1 group-title="咪咕视频",咪咕视频7
-http://111.12.101.22:6610/PLTV/77777777/224/3221225842/index.m3u8?
+http://39.134.66.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="咪咕视频",咪咕视频斯诺克
+http://39.134.66.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 group-title="咪咕视频",咪咕足球
 http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 group-title="咪咕视频",咪咕视频9
-http://111.12.101.22:6610/PLTV/77777777/224/3221225914/index.m3u8?
+#EXTINF:-1 group-title="咪咕视频",咪咕视频德甲
+http://39.134.66.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 group-title="咪咕视频",咪咕视频10
 http://111.12.101.22:6610/PLTV/77777777/224/3221225920/index.m3u8?
 #EXTINF:-1 group-title="咪咕视频",咪咕视频11
@@ -886,15 +878,15 @@ http://player.521fanli.cn/1691/henan/henanm3u8.php?id=hntv10
 #EXTINF:-1 group-title="河南",河南电视剧
 http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东",山东齐鲁
-http://39.136.48.2:8089/PLTV/88888888/224/3221226045/index.m3u8
+http://39.136.48.51:8089/PLTV/88888888/224/3221226045/index.m3u8
 #EXTINF:-1 group-title="山东",山东新闻
-http://39.136.48.2:8089/PLTV/88888888/224/3221226077/index.m3u8
+http://39.136.48.52:8089/PLTV/88888888/224/3221226077/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="山东",山东综艺
-http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
+http://39.136.48.18:8089/PLTV/88888888/224/3221225855/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="山东",山东少儿
-http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
+http://39.136.48.27:8089/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东",山东体育
-http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
+http://39.136.48.25:8089/PLTV/88888888/224/3221226075/index.m3u8
 #EXTINF:-1 group-title="山东",山东潍坊1
 http://stream.wfcmw.cn/1/sd/live.m3u8
 #EXTINF:-1 group-title="山东",山东潍坊2
@@ -2075,5 +2067,3 @@ http://111.12.75.177:9100/lctvlive/lch.m3u8
 https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8
 #EXTINF:-1 group-title="地方频道",那坡综合
 https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8
-#EXTINF:-1,
-.gdmain.com/live/l7bxg260.m3u8
