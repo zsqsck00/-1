@@ -1,40 +1,42 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视A",CCTV1
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/1/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视A",CCTV2
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000012442/1.m3u8?Contentid=1000000001000012442&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视A",CCTV3
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000011218/1.m3u8?Contentid=1000000001000011218&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视A",CCTV4
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000031664/1.m3u8?Contentid=1000000002000031664&livemode=1&stbId=3&channel-id=ystenlive
+http://111.20.33.70/PLTV/88888893/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视A",CCTV5
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000004794/1.m3u8?Contentid=1000000001000004794&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/152/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视A",CCTV5+
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000020505/1.m3u8?Contentid=1000000001000020505&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视A",CCTV6
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000016466/1.m3u8?Contentid=1000000001000016466&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/153/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视A",CCTV7
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000017218/1.m3u8?Contentid=1000000001000017218&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/3/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视A",CCTV8
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000003736/1.m3u8?Contentid=1000000001000003736&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/154/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视A",CCTV9
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?Contentid=1000000001000014583&livemode=1&stbId=3&channel-id=ystenlive
+http://111.63.117.13:6060/030000001000/G_CCTV-9/G_CCTV-9.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视A",CCTV10
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000026367/1.m3u8?Contentid=1000000001000026367&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视A",CCTV11
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000019789/1.m3u8?Contentid=1000000002000019789&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/183/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视A",CCTV12
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000001640/1.m3u8?Contentid=1000000001000001640&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视A",CCTV13
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000021303/1.m3u8?Contentid=1000000002000021303&livemode=1&stbId=3&channel-id=ystenlive
+http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视A",CCTV14
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000008170/1.m3u8?Contentid=1000000001000008170&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/7/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视A",CCTV15
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000002000008163/1.m3u8?Contentid=1000000002000008163&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/175/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视A",CCTV16
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000006000233002/1.m3u8?Contentid=1000000006000233002&livemode=1&stbId=3&channel-id=ystenlive
+http://111.20.33.70/PLTV/88888893/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视A",CCTV17
-http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000005000056836/1.m3u8?Contentid=1000000005000056836&livemode=1&stbId=3&channel-id=ystenlive
+http://49.7.234.98:808/hls/176/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="央视A",风云足球
+http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视A",湖南卫视
 http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8?1080P
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视A",浙江卫视
@@ -236,6 +238,7 @@ http://39.136.48.26:8089/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视C",CCTV16
 http://39.134.65.142/PLTV/88888888/224/3221225893/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视C",CCTV17
+http://39.134.65.142/PLTV/88888888/224/3221225708/index.m3u8
 http://39.134.65.142/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视C",湖南卫视
 http://39.134.65.142/PLTV/88888888/224/3221225506/index.m3u8
@@ -2069,4 +2072,3 @@ http://111.12.75.177:9100/lctvlive/lch.m3u8
 https://live-cdn.gxxw.com/gx/zhaoping/index.m3u8
 #EXTINF:-1 group-title="地方频道",那坡综合
 https://cdn.gdlive.gdmain.com/live/l7bxg260.m3u8
-
